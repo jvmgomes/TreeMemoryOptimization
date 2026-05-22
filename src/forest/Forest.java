@@ -1,8 +1,9 @@
-package TreeMemoryOptimization.src.Forest;
+package src.forest;
 import java.util.ArrayList;
 import java.util.List;
-import TreeMemoryOptimization.src.TreeType;
-import TreeMemoryOptimization.src.Tree;
+import src.tree.Tree;
+import src.treetype.TreeType;
+import src.treetype.TreeTypeFactory;
 
 // cria árvores usando a fábrica e armazena apenas as coordenadas
 public class Forest {

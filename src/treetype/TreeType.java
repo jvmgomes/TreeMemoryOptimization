@@ -1,13 +1,13 @@
-package TreeMemoryOptimization.src.TreeType;
+package src.treetype;
 
 import java.awt.Color;
 
 public class TreeType {
     private String name;
-    private Color color;
+    private String color;
     private String texture;
 
-    public TreeType(String name, Color color, String texture) {
+    public TreeType(String name, String color, String texture) {
         this.name = name;
         this.color = color;
         this.texture = texture;

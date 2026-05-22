@@ -1,6 +1,3 @@
-package TreeMemoryOptimization;
-import TreeMemoryOptimization.src.Tree;
-import TreeMemoryOptimization.src.TreeType;
 import TreeMemoryOptimization.src.Forest;
 
 // Problema: renderizar milhares de árvores sem duplicar dados compartilhados (name, color, texture)
