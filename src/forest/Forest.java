@@ -1,4 +1,4 @@
-package TreeMemoryOptimization.src.forests;
+package TreeMemoryOptimization.src.forest;
 
 public class Forest {
     

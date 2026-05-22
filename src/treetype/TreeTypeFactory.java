@@ -1,4 +1,4 @@
-package TreeMemoryOptimization.src.treetypes;
+package TreeMemoryOptimization.src.treetype;
 
 public class TreeTypeFactory {
     
