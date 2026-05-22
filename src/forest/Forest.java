@@ -15,4 +15,16 @@ public class Forest {
         trees.add(tree);
         return tree;
     }
+
+     // desenha todas as árvores da floresta
+    public void draw() {
+        System.out.println("\n=== Desenhando Floresta (" + trees.size() + " árvores) ===");
+        for (Tree tree : trees) {
+            tree.draw();
+        }
+    }
+    
+    public int getTotalTrees() { return trees.size(); }
+    public int getTotalTypes() { return factory.getTotalTypes(); }
+    
 }
