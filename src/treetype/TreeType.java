@@ -1,4 +1,4 @@
-package TreeMemoryOptimization.src.treetype;
+package TreeMemoryOptimization.src.TreeType;
 
 import java.awt.Color;
 
